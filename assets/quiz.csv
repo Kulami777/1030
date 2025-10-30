@@ -1,0 +1,6 @@
+"question","optionA","optionB","optionC","correct","points"
+"p5.js是基於哪種程式語言的函式庫？","Python","JavaScript","Java","B","20"
+"下列哪個函式用於載入外部資料，並確保在setup()前完成？","draw()","preload()","setup()","B","20"
+"在p5.js中，要畫一個圓形使用哪個函式？","rect()","line()","circle()","C","20"
+"請問「條件式與互動」教學中常使用的函式是？","if/else","for loop","while loop","A","20"
+"要在畫布上持續繪製動畫，必須依靠哪個函式？","setup()","draw()","preload()","B","20"
